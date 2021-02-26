@@ -1,5 +1,5 @@
 # **Modern Jukebox**
-![Modern Jukebox](https://github.com/thisoldgeek/Modern-Jukebox/blob/master/images/Modern_Jukebox_Small.gif "Modern Jukebox")
+![Modern Jukebox](https://github.com/thisoldgeek/Modern-Jukebox/blob/master/images/Modern-Jukebox-Small.gif "Modern Jukebox")
  
 
 # *Attributions:*
