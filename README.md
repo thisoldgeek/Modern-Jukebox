@@ -1,5 +1,5 @@
 # **Modern Jukebox**
-![Modern Jukebox](https://github.com/thisoldgeek/Modern-Jukebox/images/Modern-Jukebox-Small.gif?raw=true)
+![Modern-Jukebox-Small](https://user-images.githubusercontent.com/1010795/109239055-7ad5f800-7789-11eb-863f-bec476ce6829.gif)
 
 # *Attributions:*
 Classic Jukebox by Marco Gregorio 
