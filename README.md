@@ -1,6 +1,6 @@
 # **Modern Jukebox**
-![Modern Jukebox](https://thisoldgeek.github.com/thisoldgeek/Modern-Jukebox/images/Modern-Jukebox-Small.gif)
- 
+![Modern Jukebox](https://github.com/thisoldgeek/Modern-Jukebox/images/Modern-Jukebox-Small.gif?raw=true)
+
 # *Attributions:*
 Classic Jukebox by Marco Gregorio 
 https://grabcad.com/library/classic-jukebox-1
