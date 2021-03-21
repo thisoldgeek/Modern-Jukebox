@@ -1,6 +1,6 @@
 # **Modern Jukebox**
 ![Modern-Jukebox-Small](https://user-images.githubusercontent.com/1010795/109239055-7ad5f800-7789-11eb-863f-bec476ce6829.gif)
-
+ 	 	
 # *Attributions:*
 Classic Jukebox by Marco Gregorio 
 https://grabcad.com/library/classic-jukebox-1
@@ -12,8 +12,8 @@ https://learn.sparkfun.com/tutorials/interactive-led-music-visualizer/all
 A 3D-printed Jukebox powered by Volumio, with NeoPixel LEDs that react to sound/music.
 Plays your own music, web radio, Pandora, Spotify and Apple AirPlay.
 
-See the posting at (future):
-hackster.io Modern Jukebox
+See the posting at:
+https://www.hackster.io/thisoldgeek/modern-jukebox-bd1f4c
 
 ## *Required Hardware:*
 * raspberry pi 3/4
@@ -41,8 +41,7 @@ hackster.io Modern Jukebox
 Intentionally blank
 
 ## *More Information:*
-Future: [Place Holder] See the build log at https://www.hackster.io/thisoldgeek/Modern-Jukebox
-
+See the build log at https://www.hackster.io/thisoldgeek/modern-jukebox-bd1f4c
 ## *Update 02-25-2021:*
 Initial install.
 
