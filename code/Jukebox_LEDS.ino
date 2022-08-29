@@ -141,7 +141,7 @@ void setup() {    //Like it's named, this gets ran before any other function.
   
   // The following functions will run and leave the grille LEDs on 
   //rainbow(20);
-  SrainbowCycle(20);
+  rainbowCycle(20);
   
 }
 
