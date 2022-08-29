@@ -340,7 +340,7 @@ void StrandtheaterChaseRainbow(uint8_t wait)
     for (int q=0; q < 3; q++) {
       for (uint16_t i=0; i < strand.numPixels()/2; i=i+3) {
         strand.setPixelColor(i+q, Wheel( (i+j) % 255));    //turn every third pixel on
-        strand.setPixelColor(strand.numPixels()-(i+q), Wheel( (i+j) % 255));    //turn every third pixel on
+        strand.setPixelColor(strand.numPixels()-1)-(i+q), Wheel( (i+j) % 255));     //turn every third pixel on
       }
       strand.show();
 
@@ -348,7 +348,7 @@ void StrandtheaterChaseRainbow(uint8_t wait)
 
       for (uint16_t i=0; i < strand.numPixels()/2; i=i+3) {
         strand.setPixelColor(i+q, 0);        //turn every third pixel off
-        strand.setPixelColor(strand.numPixels()-(i+q), 0);        //turn every third pixel off
+        strand.setPixelColor((strand.numPixels()-1)-(i+q), 0);      //turn every third pixel off
       }
     }
     check_sw_position();
